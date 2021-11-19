@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Cris</h1>
 <h3 align="center">a passionate about new technologies and I really like to code... ;B')</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -39,6 +39,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="netcore" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-<a href="https://linkedin.com/in/cristofer-bardales-vargas-20841a129" target="blank">
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/cristofer-bardales-vargas-20841a129" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="cristofer-bardales-vargas-20841a129" height="30" width="30" /></a>
 </p>
