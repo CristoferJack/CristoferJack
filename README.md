@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="netcore" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 </p>
-<h3 align="center">a passionate about new technologies and I really like to code... ;B')</h3>
+<h3 align="center"></h3>
 <p align="center">
   <a href="https://linkedin.com/in/cristofer-bardales-vargas-20841a129" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="cristofer-bardales-vargas-20841a129" height="50" width="50" /></a>
